@@ -1,0 +1,244 @@
+{
+    "data":[
+        {
+            "kontak":{
+                "class": "telepon",
+                "angka" : 1234
+            },
+            "sosmed":[
+                {
+                    "nama": "facebook",
+                    "url" : "https://id-id.facebook.com/"          
+                    
+                },
+                {
+                    "nama": "instagram",
+                    "url" : "https://www.instagram.com/rsnu.banyuwangi/"           
+                }
+
+            ]
+        }
+    ],
+    "bannerSlide":[
+        {
+            "slide1":"foto1"
+        },
+        {
+            "slide2":"foto2"
+        },
+        {
+            "slide3":"foto3"
+        },
+        {
+            "slide4":"foto4"
+        }
+    ],
+    "layananUnggulan":[
+        {
+            "KlinikBayi":[
+                {
+                    "judul":"Klinik Bayi dan anak",
+                    "foto":"gambar",
+                    "artikel":[
+                        {
+                            "pengertian":"Layanan untuk kesehatan bayi dan anak,.....",
+                            "Conditions":["","",""],
+                            "Treatments We Offer" : ["","",""],
+                            "Medical Teknologi" : ["","",""]
+                        }
+                    ]
+
+                }
+            ],
+            "klinikTBDots":[
+                {
+                    "judul":"KlinikTbDots",
+                    "foto":"gambar",
+                    "artikel":[
+                        {
+                            "pengertian":"RSNU Banyuwangi membuka pelayanan baru yaitu Tuberculosis Directly,.....",
+                            "Conditions":["","",""],
+                            "Treatments We Offer" : ["","",""],
+                            "Medical Teknologi" : ["","",""]
+                        }
+                    ]
+                }
+            ],
+            "klinikBedah":[
+                {
+                    "judul":"KlinikBedah",
+                    "foto":"gambar",
+                    "artikel":[
+                        {
+                            "pengertian":"Klinik Bedah RS NU  melayani berbagai kondisi yang memerlukan tindakan pembedahan,.....",
+                            "Conditions":[
+                                {
+                                    "jenis":"BedahaNAK",
+                                    "macam":["Fimosis","Infeksi saluran kemih","Hemangioma","Tongue tie","Hernia"]
+                                },
+                                {
+                                    "jenis":"Bedah Digestif",
+                                    "macam":["Hemoroid","Fistula ani","Usus buntu","Obesitas","Batu empedu"]
+                                },
+                                {
+                                    "jenis":"Bedah Toraks dan Kardiovaskular",
+                                    "macam":["Varises","Gagal jantung","Kardiomiopati"]
+                                },
+                                {
+                                    "jenis":"Bedah Onkologi",
+                                    "macam":["Tumor payudara","Kanker tiroid"]
+                                },
+                                {
+                                    "jenis":"Bedah Plastik",
+                                    "macam":["Rekonstruksi wajah"]
+                                },
+                                {
+                                    "jenis":"Bedah Urologi",
+                                    "macam":["Batu ginjal","Inkontinensia urin","Infeksi saluran kemih","Hematuria"]
+                                },
+                                {
+                                    "jenis":"Bedah Umum",
+                                    "macam":["Apendisitis","Apendisitis","Klavus","......"]
+                                },
+                                {
+                                    "jenis":"Pra-Operasi",
+                                    "macam":["konsultasi","persiapan","pemeriksaan darah"]
+                                },
+                                {
+                                    "jenis":"Operasi",
+                                    "macam":["Teknik pembiusan"]
+                                },
+                                {
+                                    "jenis":"pascaOperasi",
+                                    "macam":["Pain management"]
+                                }
+                                
+                            ],
+                            "Treatments We Offer":[
+                                {
+                                    "jenis":"LHP",
+                                    "detail":"Pemanfaatan laser membuat pereduksian........."
+                                },
+                                {
+                                    "jenis":"FiLAc",
+                                    "detail":"Metode FiLaC adalah........."
+                                }
+                            ]
+                           
+                        }
+                    ]
+                }
+            ]
+            
+
+        }
+    ],
+    "fasilitasdanlayanan":[
+        {
+            "nama": "ambulance",
+            "keterangan":"article",
+            "gambar": "foto"
+        },
+        {
+            "nama": "IGD",
+            "keterangan":"article",
+            "gambar": "foto"
+        },
+        {
+            "nama": "Farmasi",
+            "keterangan":"article",
+            "gambar": "foto"
+        },
+        {
+            "nama": "Pendaftaran",
+            "keterangan":"article",
+            "gambar": "foto"
+        }
+
+    ],
+    "penawaranterbaik":[
+        {
+            "gambar":"foto",
+            "keterangan":"article"
+        }
+    ],
+    "ceritaPsien":[
+        {
+            "pasien":[
+                {
+                    "nama":"bapak prianto",
+                    "quotes": "siapa sangka............",
+                    "gambar":"foto"
+                },
+                {
+                    "nama":"pyola",
+                    "quotes": "di usia kehamilan............",
+                    "gambar":"foto"
+                },
+                {
+                    "nama":"stenfany",
+                    "quotes": "tadinya saya cukup............",
+                    "gambar":"foto"
+                },
+                {
+                    "nama":"bapak hadi",
+                    "quotes": "saat itu kaki............",
+                    "gambar":"foto"
+                },
+                {
+                    "nama":"dani pambudi",
+                    "quotes": "badan pambudi............",
+                    "gambar":"foto"
+                }
+            ]
+        }
+    ],
+    "berita":[
+        {
+            "berita1":{
+                "judul":"nyeri punggung",
+                "gambar":"foto",
+                "tanggalPublish":"Minggu, 14-11-2021",
+                "deskripsi":"Nyeri panggul dapat terjadi karena beberapa penyebab......................."
+            }
+            
+        }
+
+    ],
+    "artikel":[
+        {
+            "artikel1":{
+                "judul":"jenis penyakit rematik",
+                "gambar":"foto",
+                "tanggalPublish":"selasa, 23-11-2021",
+                "deskripsi":""
+            },
+            "artikel2":{
+                "judul":"ReadFlag pada sakit kepala",
+                "gambar":"foto",
+                "tanggalPublish":"Minggu, 23-11-2021",
+                "deskripsi":""
+            },
+            "artikel3":{
+                "judul":"Gangguan tidur dan cara mengtasinya",
+                "gambar":"foto",
+                "tanggalPublish":"Minggu, 23-11-2021",
+                "deskripsi":""
+            },
+            "artikel4":{
+                "judul":"Penanganan serangan jantung",
+                "gambar":"foto",
+                "tanggalPublish":"Minggu, 23-11-2021",
+                "deskripsi":""
+            }
+
+        }
+    ],
+    "cariDokter":[
+        {
+            "spesialis":["anak","artropedi","bedah",""],
+            "day":[],
+            "doctor":[]
+        }
+    ]
+}
